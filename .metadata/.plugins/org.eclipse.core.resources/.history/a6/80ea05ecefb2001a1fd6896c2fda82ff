@@ -1,0 +1,27 @@
+class Thing {
+	public String name;
+	public static String description;
+
+}
+
+public class App {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Thing.description="ccrayzz";
+		
+		System.out.println(Thing.description);		
+		Thing thing1 = new Thing();
+		Thing thing2 = new Thing();
+		
+		thing1.description="hello";
+		
+		thing1.name="Bella";
+		thing2.name="Carlos";
+		
+		System.out.println(thing1.description);
+		
+	}
+
+}

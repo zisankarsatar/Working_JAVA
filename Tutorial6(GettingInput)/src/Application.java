@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class Application {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner input=new Scanner(System.in);
+		
+		System.out.println("Ýsminiz: ");
+		String name =input.nextLine();
+		
+		System.out.println("Ýsminiz: "+ name);
+		
+		System.out.println("Yasiniz:");
+		int age = input.nextInt();
+		
+		System.out.println("Yasiniz:"+age);
+		
+		System.out.println("Pi sayýsý:");
+		float pi  = input.nextFloat();
+		
+		System.out.println("Pi:"+pi);
+				
+
+	}
+
+}

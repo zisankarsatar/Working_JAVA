@@ -1,0 +1,12 @@
+
+public class Machine {
+	private int id =7;
+	
+	public void start() {
+		System.out.println("Machine started");
+	}
+	
+	public void showInfo() {
+		System.out.println("MAchine id :" +id);
+	}
+}

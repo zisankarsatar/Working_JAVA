@@ -1,0 +1,6 @@
+
+public class Car extends Machine{
+	public void say() {
+		System.out.println("Hello");
+	}
+}

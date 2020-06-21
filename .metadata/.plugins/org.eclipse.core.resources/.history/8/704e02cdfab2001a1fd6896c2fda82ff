@@ -1,0 +1,24 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+ 
+		String info ="";
+		
+		info += "Selam";
+		info += " ";
+		info += "JAVA";
+		
+		System.out.println(info);
+		
+		StringBuilder sb = new StringBuilder();
+		
+		sb.append("JLO");
+		sb.append(" ");
+		sb.append("& Pitbull");
+		
+		System.out.println(sb.toString());
+	}
+
+}

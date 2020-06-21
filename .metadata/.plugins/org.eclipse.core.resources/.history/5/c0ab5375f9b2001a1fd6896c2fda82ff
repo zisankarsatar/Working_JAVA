@@ -1,0 +1,16 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+ 
+		String info ="";
+		
+		info += "Selam";
+		info += " ";
+		info += "bebek";
+		
+		System.out.println(info);
+	}
+
+}
