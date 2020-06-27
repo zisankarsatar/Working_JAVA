@@ -1,1 +1,1 @@
-INDEX VERSION 1.131+D:\JavaProje\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.131+D:\PROJE\WorkingProject\Java_Tutorial\.metadata\.plugins\org.eclipse.jdt.core

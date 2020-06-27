@@ -1,0 +1,7 @@
+4
+Deneme 
+Dosya Okuma iþlemleri 
+
+bakalim okuyacak mi?
+türkce karakterleri okumuyor
+KAynak:https://www.caveofprogramming.com/java-video/java-for-complete-beginners-video-part-34-handling-exceptions.html
